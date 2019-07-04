@@ -1,0 +1,363 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+body {
+    line-height: 1;
+    background: #FFF;
+    text-align: left;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+blockquote, q {
+    quotes: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+    content: '';
+    content: none;
+}
+
+:focus {
+    outline: 0;
+}
+
+ins {
+    text-decoration: none;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+a img {
+    border: none;
+}
+
+div#document ul, div#document li {
+    list-style-type: disc;
+    margin: 0 0 0 10px;
+    padding: 0;
+}
+
+div#document ul li {
+    margin: 0 0 0 13px;
+    padding-left: 13px;
+    padding-bottom: 2px;
+    font-size: 14px;
+}
+
+.clear {
+    clear: both;
+    height: 0;
+}
+
+br.clear {
+    line-height: 0;
+}
+
+div#document {
+    color: #494c4e;
+    background-color: #FFF !important
+}
+
+div.name {
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 17px;
+    padding: 0;
+    text-align: left;
+    text-transform: uppercase;
+    letter-spacing: 0.5px
+}
+
+div.logo {
+    display: none;
+}
+
+div.paragraph {
+    position: relative;
+}
+
+div.address {
+    position: relative;
+    text-align: left;
+    font-size: 0.917em;
+    line-height: 1.25em;
+    margin: 0;
+    padding-bottom: 15px
+}
+
+div.address2 {
+    position: relative;
+    text-align: left;
+    font-size: 0.917em;
+    line-height: 1.25em;
+}
+
+.table_wrapper {
+    width: 100%;
+    margin-top: 0;
+}
+
+table.twocol td {
+    width: 50%;
+}
+
+table.skills, table.twocol {
+    width: 100%;
+}
+
+table.skills th, table.skills td {
+    width: 20%;
+    text-align: center;
+}
+
+table.skills th {
+    text-decoration: underline;
+}
+
+table.skills .skillname, table.skills .skillrating {
+    text-align: left;
+    width: 35%;
+}
+
+table.skills .skillrating {
+    width: 20%;
+}
+
+table.skills .skillyears, table.skills .skilllast {
+    width: 19%;
+}
+
+table.skills .pad1 {
+    width: 5%;
+}
+
+table.skills .pad2, table.skills .pad3 {
+    width: 1%;
+}
+
+span.paddedline {
+    display: block;
+    clear: both;
+}
+
+.nodisplay {
+    display: none;
+}
+
+.heading, .resumeTitle, .execRsmTitle {
+    clear: both;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.52px
+}
+
+.sprtr {
+    margin: 0 3px
+}
+
+.monogram {
+    float: left
+}
+
+.monogram text {
+    font-size: 31px;
+    text-transform: uppercase;
+    letter-spacing: 0.45px
+}
+
+div#document .section {
+    border-top: 1px solid #c0c5cf
+}
+
+div#document .section:empty, div#document .section:first-child {
+    border: none
+}
+
+div#document .section:empty {
+    padding: 0 !important;
+    margin: 0 !important
+}
+
+div#document div.section.SECTION_CNTC + div {
+    border: none
+}
+
+div#document div.nameSec, div#document div.SECTION_CNTC {
+    color: #fff;
+    margin-bottom: 0px;
+}
+
+div#document div.SECTION_CNTC {
+    padding-top: 0 !important;
+    min-height: 45px;
+    margin-top: 0;
+    border: 0;
+    padding-bottom: 0
+}
+
+div#document div.nameSec {
+    margin-top: 0;
+    border: 0;
+    padding-bottom: 4px;
+    padding-top: 30px !important
+}
+
+.datesWrapper {
+    float: right;
+    padding-left: 20px
+}
+
+.txtItl {
+    font-style: italic
+}
+
+.jobtitle, .degree {
+    font-weight: bold
+}
+
+div#document .excSmry ul, div#document .excExp ul {
+    margin-top: 5px
+}
+
+/*FIX for FORCEFULLY making left margin ZERO for CL*/
+div#document .sectionCL .paragraph {
+    margin-top: 0 !important
+}
+
+.padb5 {
+    margin-bottom: 5px;
+    display: table !important;
+    width: 100%
+}
+
+.hyphen + .hyphen {
+    display: none;
+}
+
+div#document {
+    line-height: 18px;
+}
+
+div#document table {
+    line-height: 18px;
+}
+
+div#document.vmargins {
+    padding-bottom: 25px;
+}
+
+div#document.hmargins {
+    padding-left: 44px;
+    padding-right: 44px;
+}
+
+div#document .section {
+    padding-top: 19px !important;
+    margin-bottom: 19px;
+    page-break-inside: avoid;
+}
+
+div#document .nameSec, div#document .SECTION_CNTC {
+    padding-bottom: 0px
+}
+
+div#document div.paragraph {
+    margin-top: 13px;
+}
+
+div#document div.firstparagraph {
+    margin-top: 0;
+}
+
+div#document .singlecolumn, div#document .maincolumn {
+    margin-left: 0px;
+    width: 667px
+}
+
+div#document div.sectiontitle {
+    font-size: 13px;
+    color: #434d54;
+    line-height: 15px;
+}
+
+div#document table.skills td {
+    padding-top: 7px;
+}
+
+div#document div.heading, div.resumeTitle, div.execRsmTitle {
+    padding-bottom: 7px
+}
+
+.fontsize {
+    font-size: 13px;
+}
+
+.fontface {
+    font-family: Arial;
+}
+
+div.name {
+    font-size: 42px;
+    line-height: 42px;
+    margin-left: 111px
+}
+
+div.address {
+    font-size: 13px;
+    line-height: 16px;
+    margin-left: 111px
+}
+
+div.resumeTitle, div.execRsmTitle {
+    font-size: 13px;
+    line-height: 15px;
+    color: #434d54;
+}
+
+/*Full color bleed calculation*/
+div#document div.nameSec, div#document div.SECTION_CNTC {
+    background: #434d54;
+    border: 1px solid #434d54;
+    margin-left: -44px !important;
+    margin-right: -44px !important;
+    padding-left: 44px;
+    padding-right: 44px;
+}
+
+.monogram svg {
+    width: 83px;
+    height: 79px
+}
+
+/*FIX for Re-calculating width of singlecolumn for CL*/
+div#document .sectionCL .singlecolumn {
+    margin-left: 0 !important;
+    width: 100%;
+}
+
+div.address2 {
+    font-size: 13px;
+    line-height: 18px;
+}
+
+@media print {
+    .no-print {
+        display: none;
+    }
+}
