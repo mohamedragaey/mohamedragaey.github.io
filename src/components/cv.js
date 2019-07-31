@@ -101,12 +101,14 @@ const CV = () => {
           <div className="paragraph PARAGRAPH_EXPR firstparagraph ">
             <div className="singlecolumn">
                             <span className="paddedline padb5 txtRglr">
-                        <span className="jobtitle">Arkdev, Nasr City - UI Developer</span><span className="sprtr"> / </span>
+                        <span className="jobtitle">Arkdev, Nasr City - UI Developer</span><span
+                              className="sprtr"> / </span>
                         <span className="companyname">Arkdev</span><span> - </span>
                         <span className="joblocation jobcity">Nasr City</span><span>, </span>
                         <span className="joblocation jobstate">Cairo</span>
                         <span className="datesWrapper txtItl">
-                            <span className="jobdates">10/2016</span><span> - </span><span className="jobdates">Current</span>
+                            <span className="jobdates">10/2016</span><span> - </span><span
+                          className="jobdates">Current</span>
                         </span>
                     </span>
               <div className="jobline">
@@ -170,9 +172,9 @@ const CV = () => {
                 <li><u><strong>Google Store</strong></u> - Mobile Store
                   accessories.[http://googlestore-eg.com/]
                 </li>
-                <li><u><strong>IBite Store</strong></u> - Magento Online store for All Apple "Mac &amp;
-                  iPhone" Accessories.[https://ibitestore.com]
-                </li>
+                {/*<li><u><strong>IBite Store</strong></u> - Magento Online store for All Apple "Mac &amp;*/}
+                  {/*iPhone" Accessories.[https://ibitestore.com]*/}
+                {/*</li>*/}
               </ul>
             </div>
           </div>
@@ -186,6 +188,9 @@ const CV = () => {
                     <span className="paddedline">
                         <span className="degree">B.S</span><span>: </span>
                         <span className="programline">computer science</span>
+                        <span className="datesWrapper txtItl">
+                          <span className="jobdates">2016</span>
+                        </span>
                     </span>
               <span className="field">Benha Faculty of computer and informatics</span>
             </div>
@@ -224,7 +229,7 @@ const CV = () => {
           </div>
           <div className="paragraph PARAGRAPH_CUST firstparagraph ">
             <div className="field singlecolumn">
-              <p>Arabic (Native) English (ProfessionalWorking)</p>
+              <p>Arabic (Native) English (Professional Working)</p>
             </div>
           </div>
         </div>
