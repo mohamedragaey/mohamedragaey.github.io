@@ -13,7 +13,7 @@ const CV = () => {
                      enableBackground="0 0 67 64">
                   <rect x="0px" y="0px" width="67px" height="64px"
                         stroke="#ffffff" fill="none"
-                        strokeWidth="1px"></rect>
+                        strokeWidth="1px"/>
                   <text id="SUBSTR_FALN" textAnchor="middle" x="34px"
                         y="42px" fill="#ffffff" fontSize="20px">MR
                   </text>
@@ -173,7 +173,7 @@ const CV = () => {
                   accessories.[http://googlestore-eg.com/]
                 </li>
                 {/*<li><u><strong>IBite Store</strong></u> - Magento Online store for All Apple "Mac &amp;*/}
-                  {/*iPhone" Accessories.[https://ibitestore.com]*/}
+                {/*iPhone" Accessories.[https://ibitestore.com]*/}
                 {/*</li>*/}
               </ul>
             </div>
