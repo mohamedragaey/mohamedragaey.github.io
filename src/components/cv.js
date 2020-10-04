@@ -48,7 +48,7 @@ const CV = () => {
 
             <div className="field singlecolumn">
               <p>Passionate about what i do, hard working and
-                effective UI Developer with more than 3 years of
+                effective Frontend Developer with 4 years of
                 expertise and deadline-driven.</p>
             </div>
 
@@ -138,6 +138,16 @@ const CV = () => {
           <div className="paragraph PARAGRAPH_ACCM firstparagraph ">
             <div className="field singlecolumn">
               <ul>
+                <li><u><strong>Nejmo</strong></u> - Nejmo paves the road to the future of entertainment with an
+                  innovative two-way communication channel for role models and fans.[https://nejmo.net]
+                </li>
+                <li><u><strong>Arkdev</strong></u> - An Egyptian "Purpose Driven" software development
+                  company.[https://arkdev.net]
+                </li>
+                <li><u><strong>iken</strong></u> -We are a leading Industry 4 Digital Transformation and Digital
+                  security company with a very exclusive skill set in information / operation security professional
+                  services, Industry 4.0 readiness assessment & solutions deployment.[https://iken.co/]
+                </li>
                 <li><u><strong>Wildguanabana</strong></u> - Designing and creating authentic and ethical
                   adventure travel experiences around the world.[Https://wildguanabana.com]
                 </li>
