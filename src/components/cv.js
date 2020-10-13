@@ -63,29 +63,30 @@ const CV = () => {
               <table className="twocol">
                 <tbody>
                 <tr>
-                  <td className="field twocol_1"
-                      id="FIELD_SKC1">
+                  <td className="field">
                     <ul>
                       <li>HTML, CSS , SCSS , LESS</li>
                       <li>Jquery, Javascript</li>
-                      <li>React, React Native, JSX,
-                        XML
-                      </li>
+                      <li>React, React Native, JSX, XML</li>
                       <li>Bootstrap</li>
-                      <li>Photoshop</li>
                       <li>SVG Animation</li>
                     </ul>
                   </td>
-                  <td className="field twocol_2"
-                      id="FIELD_SKC2">
+                  <td className="field">
                     <ul>
-                      <li>BEM methodology</li>
-                      <li>Webpack, Gulp, Grunt, Yarn,
-                        NPM
-                      </li>
                       <li>Magento</li>
                       <li>Drupal 8</li>
+                      <li>WordPress</li>
                       <li>Laravel</li>
+                    </ul>
+                  </td>
+                  <td className="field">
+                    <ul>
+                      <li>BEM methodology</li>
+                      <li>Webpack, Gulp, Grunt, Yarn, NPM</li>
+                      <li>Photoshop</li>
+                      <li>Adope Xd</li>
+                      <li>Zeplin</li>
                     </ul>
                   </td>
                 </tr>
@@ -120,7 +121,7 @@ const CV = () => {
                   <li>Troubleshot, tested and remedied identified issues before software deployment
                   </li>
                   <li>Coded user-customizable applications from design to easy to use sites</li>
-                  <li>Designed, built and maintained complete Laravel and Drupal and Magento
+                  <li>Designed, built and maintained complete Laravel, Drupal, WordPress, React and Magento
                     websites
                   </li>
                   <li>Validated code for proper structuring, security and compatibility with different
@@ -144,12 +145,12 @@ const CV = () => {
                 <li><u><strong>Arkdev</strong></u> - An Egyptian "Purpose Driven" software development
                   company.[https://arkdev.net]
                 </li>
-                <li><u><strong>iken</strong></u> -We are a leading Industry 4 Digital Transformation and Digital
-                  security company with a very exclusive skill set in information / operation security professional
-                  services, Industry 4.0 readiness assessment & solutions deployment.[https://iken.co/]
-                </li>
                 <li><u><strong>Wildguanabana</strong></u> - Designing and creating authentic and ethical
                   adventure travel experiences around the world.[Https://wildguanabana.com]
+                </li>
+                <li><u><strong>Nefertari body care</strong></u> -Pharmascienta Egypt specializes in producing a line of
+                  100% natural all handmade Egyptian accentuated body care products free from preservatives, chemicals,
+                  colors, and artificial fragrances.[https://www.nefertaribodycare.com/]
                 </li>
                 <li><u><strong>Click Offers</strong></u> - Ultimate destination for browsing and saving the
                   latest offers and promotions.[https://www.click-offers.com/]
@@ -161,6 +162,13 @@ const CV = () => {
                   Sarie-Eldin [http://www.sarieldin.com/]
                 </li>
                 <li><u><strong>Ceres</strong></u> - A nonprofit organization [https://www.ceres.org/]</li>
+                <li><u><strong>iken</strong></u> -We are a leading Industry 4 Digital Transformation and Digital
+                  security company with a very exclusive skill set in information / operation security professional
+                  services, Industry 4.0 readiness assessment & solutions deployment.[https://iken.co/]
+                </li>
+                <li><u><strong>Tarek kamel</strong></u> -Tributes site for Former minister of communication and
+                  information technology.[https://tarekkamel.info/]
+                </li>
                 <li><u><strong>Herzone</strong></u> - Shopping website for ladies [https://www.herzone.com/
                   ]
                 </li>
@@ -174,7 +182,15 @@ const CV = () => {
                   Republic[https://www.theglocal.com/]
                 </li>
               </ul>
-              <p><u><strong>Freelance Projects:</strong></u></p>
+            </div>
+          </div>
+        </div>
+        <div className="section">
+          <div className="heading">
+            <div className="sectiontitle">Freelance Projects</div>
+          </div>
+          <div className="paragraph PARAGRAPH_ACCM firstparagraph ">
+            <div className="field singlecolumn">
               <ul>
                 <li><u><strong>Elbalto</strong></u> - Mobile based application for medical
                   services.[https://elbalto.com/]
