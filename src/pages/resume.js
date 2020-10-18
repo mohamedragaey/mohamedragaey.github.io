@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "react-router-dom"
 import SEO from "../components/seo"
-import CV from "../components/cv"
+import CV from "../components/Resume"
 
 const Resume = () => (
   <>
