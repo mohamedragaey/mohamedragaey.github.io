@@ -1,14 +1,14 @@
 import React from "react"
-import { Link } from "react-router-dom"
-import SEO from "../components/seo"
-import CV from "../components/Resume"
+import { Link } from "gatsby"
+import Layout from "../components/Layout"
+import Resume from "../components/Resume"
 
-const Resume = () => (
-  <>
-    <SEO title="Resume"/>
-    <CV/>
-    <Link className='no-print' to="/">Go back to the homepage</Link>
-  </>
-)
+const ResumePage = () => {
+  return (
+    <>
+      <Layout children={<><Resume/><Link className='no-print' to="/">Go back to the homepage</Link></>}/>
+    </>
+  )
+}
 
-export default Resume
+export default ResumePage

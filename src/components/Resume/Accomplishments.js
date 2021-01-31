@@ -42,7 +42,7 @@ const Accomplishments = () => {
               [https://www.sahem.org/]
             </li>
             <li><u><strong>The Glocal</strong></u> - The digital content platform of Core Republic
-              [https://www.theglocal.com/]
+              <a href='https://www.theglocal.com/'>[https://www.theglocal.com/]</a>
             </li>
           </ul>
         </div>

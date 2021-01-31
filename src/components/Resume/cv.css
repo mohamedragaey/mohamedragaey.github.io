@@ -360,4 +360,8 @@ div.address2 {
     .no-print {
         display: none;
     }
+
+    header {
+        display: none;
+    }
 }
