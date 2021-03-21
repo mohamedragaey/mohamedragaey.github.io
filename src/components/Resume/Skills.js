@@ -16,7 +16,7 @@ const Skills = () => {
                 <ul>
                   <li>HTML, CSS , SCSS , LESS</li>
                   <li>Jquery, Javascript</li>
-                  <li>React, React Native, JSX, XML</li>
+                  <li>React, NextJs, React Native</li>
                   <li>Bootstrap</li>
                   <li>SVG Animation</li>
                 </ul>
@@ -27,7 +27,7 @@ const Skills = () => {
                   <li>Webpack, Gulp, Grunt, Yarn, NPM</li>
                   <li>Photoshop</li>
                   <li>Adope Xd</li>
-                  <li>Zeplin</li>
+                  <li>Zeplin, Sketch, Figma</li>
                 </ul>
               </td>
               <td className="field">
