@@ -9,10 +9,9 @@ const Summary = () => {
       </div>
       <div className="paragraph PARAGRAPH_SUMM firstparagraph ">
         <div className="field singlecolumn">
-          <p>I'm a front-end developer with over four years of experience. I have expert tech stack includes HTML5,
-            HTML, CSS3, React, Material-ui, and Bootstrap. I excels at UI development and has a demonstrated history of delivering
-            projects in the fields of health, beauty, online retail, travel, entertainment, among others.
-            Deadline-driven and passionate about what i do, I can hit the ground running on any project easily.
+          <p>Seeking a job opportunity in a leading electrical company. In which, I can use my skills and my education
+            background to add value to the organization , gain practical experience and increase my knowledge in the
+            engineering field.
           </p>
         </div>
       </div>

@@ -9,7 +9,7 @@ const Languages = () => {
       </div>
       <div className="paragraph firstparagraph ">
         <div className=" singlecolumn">
-          <p>Arabic (Native) English (Professional Working)</p>
+          <p>Arabic (Native) English (intermediate)</p>
         </div>
       </div>
     </div>

@@ -13,26 +13,26 @@ const PersonalInformation = () => {
                     stroke="#ffffff" fill="none"
                     strokeWidth="1px"/>
               <text id="SUBSTR_FALN" textAnchor="middle" x="34px"
-                    y="42px" fill="#ffffff" fontSize="20px">MR
+                    y="42px" fill="#ffffff" fontSize="20px">ZR
               </text>
             </svg>
           </div>
           <div className="name">
-            <span className="field">Mohamed Ragaey</span>
+            <span className="field">Zahraa Ragaey</span>
           </div>
         </div>
       </div>
       <div className="section SECTION_CNTC  border-top-0">
         <div className="paragraph PARAGRAPH_CNTC firstparagraph ">
           <div className="address">
-            <span className="field">mohamedragaey33@gmail.com</span>
+            <span className="field">zahraaragaey140@gmail.com</span>
             <span className="sprtr"> / </span>
-            <span>H: </span><span className="field">01021670450</span>
+            <span>H: </span><span className="field">01016896613</span>
             <div>
-              <span className="field">10 Abd EL hay Hegazy</span><span>, </span>
-              <span className="spaced field">Cairo</span><span>, </span>
-              <span className="spaced field">Nasr City</span><span> </span>
-              <span className="spaced field">11762</span>
+              <span className="field">Brick factory street</span><span>, </span>
+              <span className="spaced field">Qalyubia</span><span>, </span>
+              <span className="spaced field">Benha, Damallu</span><span> </span>
+              <span className="spaced field">13511</span>
             </div>
           </div>
         </div>

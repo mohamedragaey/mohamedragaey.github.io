@@ -8,8 +8,7 @@ const Certifications = () => {
         <div className="sectiontitle">Certifications</div>
       </div>
       <div className="paragraph">
-        <div><p>React Nanodegree by Udacity [https://confirm.udacity.com/ULHK2DC2]</p></div>
-        <div><p>React Certificate by Hackerrank [https://www.hackerrank.com/certificates/3e2f858760ea]</p></div>
+        <div><p>HCIA-Routing&Switching</p></div>
       </div>
     </div>
   )

@@ -14,28 +14,24 @@ const Skills = () => {
             <tr>
               <td className="field">
                 <ul>
-                  <li>HTML, CSS , SCSS , LESS</li>
-                  <li>Jquery, Javascript</li>
-                  <li>React, NextJs, React Native</li>
-                  <li>Bootstrap</li>
-                  <li>SVG Animation</li>
+                  <li>Huawei eNSP</li>
+                  <li>Matlab</li>
+                  <li>Proteus</li>
+                  <li>Packet tracer</li>
+                  <li>Microsoft office package</li>
                 </ul>
               </td>
               <td className="field">
                 <ul>
-                  <li>BEM methodology</li>
-                  <li>Webpack, Gulp, Grunt, Yarn, NPM</li>
-                  <li>Photoshop</li>
-                  <li>Adope Xd</li>
-                  <li>Zeplin, Sketch, Figma</li>
+                  <li>Team player</li>
+                  <li>Self Learner</li>
+                  <li>Presentation skills</li>
+                  <li>Communication skills</li>
                 </ul>
               </td>
               <td className="field">
                 <ul>
-                  <li>Magento</li>
-                  <li>Drupal 8</li>
-                  <li>WordPress</li>
-                  <li>Laravel</li>
+                  <li>C++ Programming Language</li>
                 </ul>
               </td>
             </tr>

@@ -9,7 +9,7 @@ const Interests = () => {
       </div>
       <div className="paragraph firstparagraph ">
         <div className="singlecolumn">
-          <p>Robotics, Embedded Systems, IOT and AI</p>
+          <p>Drwaing, Sports, video games</p>
         </div>
       </div>
     </div>

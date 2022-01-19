@@ -10,28 +10,28 @@ const Experience = () => {
       <div className="paragraph PARAGRAPH_EXPR firstparagraph ">
         <div className="singlecolumn">
           <span className="paddedline padb5 txtRglr">
-            <span className="jobtitle">Arkdev - Frontend Developer</span>
+            <span className="jobtitle"> Smart Parking system and IPS.</span>
             <span className="sprtr"> / </span>
-            <span className="companyname">Arkdev</span>
+            <span className="companyname">Graduation Project:</span>
             <span> - </span>
-            <span className="joblocation jobcity">Heliopolis</span><span>, </span>
-            <span className="joblocation jobstate">Cairo</span>
+            <span className="joblocation jobcity">Benha</span><span>, </span>
+            <span className="joblocation jobstate">Qalyubia</span>
             <span className="datesWrapper txtItl">
-              <span className="jobdates">10/2016</span>
-              <span> - </span>
-              <span className="jobdates">Current</span>
+              <span className="jobdates">7/2021</span>
             </span>
           </span>
           <div className="jobline">
             <ul>
-              <li>Created landing pages, dashboards and web applications using HTML, CSS and Javascript</li>
-              <li>Redesigned sites to enhance navigation and improve visual appeal</li>
-              <li>Troubleshot, tested and remedied identified issues before software deployment</li>
-              <li>Coded user-customizable applications from design to easy to use sites</li>
-              <li>Designed, built and maintained complete Laravel, Drupal, WordPress, React and Magento websites</li>
-              <li>Validated code for proper structuring, security and compatibility with different browsers, devices or
-                operating systems
-              </li>
+              <li>ARM & IOT based project.</li>
+              <li>Parking system: Using ARM STM32 interfaced with ESP 32 WIFI module to send data to web application
+                and IR sensors.</li>
+              <li>It collects IR sensors reading from slots and detect if there is car or no, and sends the data using ESP8266 WIFI
+                module and HTTP protocol services to a Web application.</li>
+              <li>STM32 microcontroller control the ESP module through UART communication protocol and with help of a wide
+                range of AT commands to connect to the web server and send the sensors data. </li>
+              <li>Indoor positioning system: Using ESP 32 Bluetooth module as BLE (low energy Bluetooth) beacons.</li>
+              <li>the ESP sends frames to a mobile application and by some algorithm and mapping , it directs the user to his
+                destination.</li>
             </ul>
           </div>
         </div>
